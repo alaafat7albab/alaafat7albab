@@ -6,6 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaafat7albab" alt="alaafat7albab" /></a> </p>
 
 - 📫 How to reach me **alaa.fathalbab@gmail.com**
+-  🌱 I’m currently learning about devops.
+- ⚡  Available for Freelance projects and part time opportunities.
+
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
