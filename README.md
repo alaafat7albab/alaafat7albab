@@ -8,8 +8,8 @@
 ---
 
 - 📫 How to reach me **alaa.fathalbab@gmail.com**
--  🌱 I’m a Front-End Engineer at BTech
-- ⚡  Available for Freelance projects and part-time opportunities.
+- 🌱 I’m a Front-End Engineer at BTech
+- ⚡ Available for Freelance projects and Part-Time Opportunities.
 
 
 ---
